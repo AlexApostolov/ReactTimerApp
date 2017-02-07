@@ -1,7 +1,7 @@
-const React = require('react'),
-      ReactDOM = require('react-dom'),
-      expect = require('expect'),
-      $ = require('jQuery'),
+const React =     require('react'),
+      ReactDOM =  require('react-dom'),
+      expect =    require('expect'),
+      $ =         require('jQuery'),
       TestUtils = require('react-addons-test-utils');
 
 const Clock = require('Clock');
